@@ -22,3 +22,5 @@ This setup includes the following:
 ### Run Command
 
 kubectl apply -f `filename`
+
+- Secret values are base64 encoded
