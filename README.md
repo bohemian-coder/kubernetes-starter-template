@@ -19,3 +19,6 @@ This setup includes the following:
 5c.) A secret named mysql-db-url, key name is database and value is kdb3
 
 
+### Run Command
+
+kubectl apply -f <filename>
