@@ -21,4 +21,4 @@ This setup includes the following:
 
 ### Run Command
 
-kubectl apply -f <filename>
+kubectl apply -f `filename`
